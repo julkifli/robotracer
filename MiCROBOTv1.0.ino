@@ -5,7 +5,7 @@ Julkifli Awang Besar
 2nd C0d3
 PID for R0b0tr4c3r
 
-Refer to Fritzing Schematic.
+Suite with MiCROBOT PCB.
 ***ROBONEO2017****
 
 */
